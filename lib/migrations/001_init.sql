@@ -1,0 +1,1 @@
+-- Initial DB setup: customers, purchases, events, etc.

@@ -1,0 +1,1 @@
+// Functions for syncing with Toast POS API
